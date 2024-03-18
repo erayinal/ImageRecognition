@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ImageRecognition
 //
-//  Created by Eray İnal on 15.03.2024.
+//  Created by Eray İnal on 17.03.2024.
 //
 
 import UIKit
